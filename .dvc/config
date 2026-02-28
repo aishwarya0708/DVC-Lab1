@@ -3,5 +3,5 @@
     analytics = false
     remote = myremote
 ['remote "myremote"']
-    url = gs://dvc-bucket-25
-    credentialpath = /home/ramin/Documents/MLOps/Labs/Data_Labs/DVC_Labs/Lab_1/git-action-gcp-3e47dbac54ff.json
+    url = gs://aishwarya-dvc-lab1
+    credentialpath = C:\Users\Aishwarya V\Downloads\DVC-Lab1\dvc-lab1-488805-313200dac2c6.json
